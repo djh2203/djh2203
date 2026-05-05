@@ -34,10 +34,10 @@
 
 | 项目                | 技术栈                  | 简介                                            | 链接                                                    |
 |:----------------- |:-------------------- |:--------------------------------------------- |:----------------------------------------------------- |
-| **Phone Phoenix** | HTML,Termux,Flask    | 将旧 Android 手机变为智能家居中枢：语音助手、摄像头监控、音乐服务器的一体化方案。 | [查看仓库](https://github.com/djh2203/PhonePhoenix)       |
-| **fileledge**  | HTML,SQLite,Flask | 为青岛大学徳雷克联合学院设计的私有云盘系统 | [查看仓库](https://github.com/djh2203/fileledge) |
-| **face-tracking** | Python,OpenCV,YuNet  | 轻量级实时人脸检测工具，支持命令行参数调节                         | [查看仓库](https://github.com/djh2203/face-tracking)      |
-| **个人博客 (WebGL)**  | HTML,Three.js        | 一个以海洋波浪、昼夜变化为背景的滚动博客。                         | [在线预览](https://djh2203.github.io)                     |
+| **Phone Phoenix** | HTML,Termux,Flask    | 将旧 Android 手机变为智能家居中枢：语音助手、摄像头监控、音乐服务器的一体化方案。 | [查看](https://github.com/djh2203/PhonePhoenix)       |
+| **fileledge**  | HTML,SQLite,Flask | 为青岛大学徳雷克联合学院设计的私有云盘系统 | [查看](https://github.com/djh2203/fileledge) |
+| **face-tracking** | Python,OpenCV,YuNet  | 轻量级实时人脸检测工具，支持命令行参数调节                         | [查看](https://github.com/djh2203/face-tracking)      |
+| **个人博客 (WebGL)**  | HTML,Three.js        | 一个以海洋波浪、昼夜变化为背景的滚动博客。                         | [预览](https://djh2203.github.io)                     |
 
 ## 学习方向
 
