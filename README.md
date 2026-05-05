@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <code>Python</code> · <code>Java</code> · <code>C++</code> · <code>JavaScript</code> · <code>HTML</code> · <code>Git</code> · <code>Github</code> · <code>scode</code>
+  <code>Python</code> · <code>Java</code> · <code>C++</code> · <code>JavaScript</code> · <code>HTML</code> · <code>Git</code> · <code>Github</code> · <code>Vscode</code>
 </p>
 
 ## GitHub 统计
