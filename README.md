@@ -34,10 +34,10 @@
 
 | 项目                | 技术栈                  | 简介                                            | 链接                                                    |
 |:----------------- |:-------------------- |:--------------------------------------------- |:----------------------------------------------------- |
-| **Phone Phoenix** | HTML,Termux,Flask    | 将旧 Android 手机变为智能家居中枢：语音助手、摄像头监控、音乐服务器的一体化方案。 | [查看](https://github.com/djh2203/PhonePhoenix)       |
-| **fileledge**  | HTML,SQLite,Flask | 为青岛大学徳雷克联合学院设计的私有云盘系统 | [查看](https://github.com/djh2203/fileledge) |
-| **face-tracking** | Python,OpenCV,YuNet  | 轻量级实时人脸检测工具，支持命令行参数调节                         | [查看](https://github.com/djh2203/face-tracking)      |
 | **DeepSeek-Refined** | JavaScript,CSS  | 为网页版 DeepSeek注入 Obsidian Border 主题风格的 Markdown 美化样式    | [查看](https://github.com/djh2203/DeepSeek-Refined)      |
+| **cam-agent x** | python    | 基于大华/Imou 摄像头的 AI 助手 | [查看](https://github.com/djh2203/cam-agent-x)       |
+| **mcp-dahua-camera**  | python | 把大华/Imou 网络摄像头(私有协议 37777)变成标准的 MCP Server | [查看](https://github.com/djh2203/mcp-dahua-camera) |
+
 
 
 ## 学习方向
