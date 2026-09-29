@@ -35,7 +35,7 @@
 | 项目                | 技术栈                  | 简介                                            | 链接                                                    |
 |:----------------- |:-------------------- |:--------------------------------------------- |:----------------------------------------------------- |
 | **DeepSeek-Refined** | JavaScript,CSS  | 为网页版 DeepSeek注入 Obsidian Border 主题风格的 Markdown 美化样式    | [查看](https://github.com/djh2203/DeepSeek-Refined)      |
-| **cam-agent x** | python    | 基于大华/Imou 摄像头的 AI 助手 | [查看](https://github.com/djh2203/cam-agent-x)       |
+| **cam-agent** | python    | 基于大华/Imou 摄像头的 AI 助手 | [查看](https://github.com/djh2203/cam-agent)       |
 | **mcp-dahua-camera**  | python | 把大华/Imou 网络摄像头(私有协议 37777)变成标准的 MCP Server | [查看](https://github.com/djh2203/mcp-dahua-camera) |
 
 
